@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mi sitio con Hugo</title>
-    <link>https://fotosyassin1-wq.github.io/holamundo/</link>
+    <link>https://fotosyassin1-wq.github.io/holamundo1/</link>
     <description>Recent content on Mi sitio con Hugo</description>
     <generator>Hugo</generator>
     <language>es</language>
     <lastBuildDate>Sun, 14 Sep 2025 10:00:00 +0200</lastBuildDate>
-    <atom:link href="https://fotosyassin1-wq.github.io/holamundo/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://fotosyassin1-wq.github.io/holamundo1/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Bienvenida</title>
-      <link>https://fotosyassin1-wq.github.io/holamundo/posts/bienvenida/</link>
+      <link>https://fotosyassin1-wq.github.io/holamundo1/posts/bienvenida/</link>
       <pubDate>Sun, 14 Sep 2025 10:00:00 +0200</pubDate>
-      <guid>https://fotosyassin1-wq.github.io/holamundo/posts/bienvenida/</guid>
+      <guid>https://fotosyassin1-wq.github.io/holamundo1/posts/bienvenida/</guid>
       <description>&lt;p&gt;¡Hola! Esta es mi primera entrada en &lt;strong&gt;Hugo&lt;/strong&gt;. Generada desde &lt;em&gt;Markdown&lt;/em&gt;.&lt;/p&gt;</description>
     </item>
   </channel>
