@@ -1,0 +1,8 @@
+baseURL = "https://fotosyassin1-wq.github.io/holamundo/"
+languageCode = "es"
+title = "Mi sitio con Hugo"
+theme = "ananke"
+publishDir = "docs"
+
+[params]
+  description = "Web estática de ejemplo con Hugo"
