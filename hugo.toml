@@ -3,4 +3,5 @@ languageCode = "es"
 title = "Mi sitio con Hugo"
 theme = "ananke"
 publishDir = "docs"
+uglyURLs = true
 
